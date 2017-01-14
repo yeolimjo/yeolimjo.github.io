@@ -1,0 +1,112 @@
+body {
+  font-family: Lato, sans-serif;
+}
+
+.jumbotron {
+  background-color: #faf9fb;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  text-align: center;
+}
+
+.socials {
+  font-size: 30px;
+  padding-left: 0px;
+}
+
+.socials a:link {
+  color: gray;
+}
+
+.socials a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: gray;
+}
+
+#mindy {
+  width: 35vw;
+  height: 35vw;
+}
+
+#me {
+  width: 20vw;
+  height: 20vw;
+  margin: auto;
+  display: inline-block;
+}
+
+.row{
+    padding: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.col-sm-3 {
+    padding: 0px;
+    text-align: center;
+}
+
+img{
+    padding: 10px;
+}
+
+#cornellseal, #bhs, #baja, #coe{
+    width: 120px;
+    height: 120px;
+}
+
+#gwclogo{
+    width: 145px;
+    height: 76.5px;
+}
+
+#cornellseal-resume{
+    width: 120px;
+    height: 120px;
+}
+
+.col-sm-7{
+    text-align: left;
+}
+
+.col-sm-2{
+    text-align: left;
+    padding-top: 7px;
+}
+
+h4{
+    font-size: 20px;
+}
+
+h5{
+    font-size: 16px;
+}
+
+#EXPERIENCE {
+  background-color: #faf9fb;
+}
+
+#skills {
+  text-align: center;
+  background-color: #faf9fb;
+}
+
+.footer {
+  text-align: right;
+  padding-bottom: 12px;
+  padding-right: 15px;
+  background-color: #faf9fb;
+}
