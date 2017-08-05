@@ -36,11 +36,6 @@ a:visited {
   color: gray;
 }
 
-#mindy {
-  width: 35vw;
-  height: 35vw;
-}
-
 #me {
   width: 20vw;
   height: 20vw;
@@ -63,14 +58,9 @@ img{
     padding: 10px;
 }
 
-#cornellseal, #bhs, #baja, #coe{
+#cornellseal, #bhs, #baja, #coe, #hyperloop{
     width: 120px;
-    height: 120px;
-}
-
-#gwclogo{
-    width: 145px;
-    height: 76.5px;
+    height: auto;
 }
 
 #cornellseal-resume{
